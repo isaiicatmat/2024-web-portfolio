@@ -10,6 +10,8 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "ajv": "^8.16.0",
+    "ajv-keywords": "^5.1.0",
     "autoprefixer": "^9.8.6",
     "fast-average-color": "^6.3.0",
     "postcss": "^7.0.36",
