@@ -27,9 +27,9 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "start": "NODE_OPTIONS=--max_old_space_size=512 craco start",
+    "build": "NODE_OPTIONS=--max_old_space_size=512 craco build",
+    "test": "NODE_OPTIONS=--max_old_space_size=512 craco test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
