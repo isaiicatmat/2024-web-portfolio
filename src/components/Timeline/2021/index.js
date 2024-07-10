@@ -5,7 +5,7 @@ export function Year2021() {
   return (
     <>
       <DateEntry title="2021" />
-      <TimelineEntry title="Started as Project Manager at MPSystem" timestamp="Mar 1st, 2021 - Seoul, South Korea" Icon={Briefcase} tint="indigo">
+      <TimelineEntry title="Started as Project Manager at MPSystem" timestamp="Jan 1st, 2021 - Seoul, South Korea" Icon={Briefcase} tint="indigo">
         <Notes>
           <p>As manufacturer of automated parking systems, MPSystem has a global presence and a strong client focus.</p>
           <p>As a project manager in a brand new team in the company - Inventory and process management, I am responsible for the integrity of the platforms, and the interaction with the users. Some of the technologies we use are: React, Python, TypeScript, PHP, Laravel, Pytorch, Tensorflow, Tailwind, VueJS, NodeJS.</p>

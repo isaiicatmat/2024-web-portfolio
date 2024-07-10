@@ -6,7 +6,7 @@ export function Year2020() {
   return (
     <>
       <DateEntry title="2020" />
-       <TimelineEntry title="Started as a front-end developer at Maromav" timestamp="June 1st, 2020 - Seoul, South Korea" Icon={Briefcase} tint="indigo">
+       <TimelineEntry title="Started as a front-end developer at Maromav" timestamp="Jun 1st, 2020 - Seoul, South Korea" Icon={Briefcase} tint="indigo">
         <Notes>
           <p>Maromav is a startup focused on making programming easy and fun.</p>
           <p>As as Frontend Developer and Designer, I desgined and built the wireframes and prototypes of modules within the webpage and app. We use: React, Nextjs, Vercel, TypeScript, jQuery, AWS</p>
